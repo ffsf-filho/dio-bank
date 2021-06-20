@@ -120,16 +120,21 @@ namespace dio_bank
             Console.WriteLine();
             Console.WriteLine($"Dio Bank a seu sispor!!!");
             Console.WriteLine($"Informe a opção desejada:");
-
+            Console.WriteLine("=============================================");
+            Console.WriteLine();
             Console.WriteLine($"1 - Listar contas");
             Console.WriteLine($"2 - Inserir nova conta");
             Console.WriteLine($"3 - Transferir");
             Console.WriteLine($"4 - Sacar");
             Console.WriteLine($"5 - Depositar");
+            Console.WriteLine();
+            Console.WriteLine("=============================================");
+            Console.WriteLine();
             Console.WriteLine($"C - Limpar a Tela");
             Console.WriteLine($"X - Sair");
             Console.WriteLine();
-
+            Console.WriteLine("=============================================");
+            Console.WriteLine();            
             string opcaoUsuario = Console.ReadLine().ToUpper();
             Console.WriteLine();
             return opcaoUsuario;
