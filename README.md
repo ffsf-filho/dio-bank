@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido durante o Bootcamp, teve como desafio desenvolver uma aplicação
 básica que fosse capaz de armazenar na mémoria algumas informações sobre contas bancárias, para
-simular movimentações de cadastro de conta, listar contas, sque, depósito e transferência entre 
+simular movimentações de cadastro de conta, listar contas, saque, depósito e transferência entre 
 contas onde foi aplicado os conceitos de POO aprendidos até aqui.
 
 ### Requisitos
